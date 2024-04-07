@@ -2,8 +2,7 @@
 
 Final Project for UC Berkeley's Decal Course: Cubstart.
 
-Inspired by BerkeleyTime, Berkeley Academic Guide (both of these have valuable information about different courses, but do not generally support mobile devices and lack personalization).
-Allows students (especially those from Berkeley) to view information about different courses (even importing their own courses that are not listed in the app)
+Inspired by BerkeleyTime and the Berkeley Academic Guide, which provide valuable information about various courses but lack support for mobile devices and personalization, the app allows students, especially those from Berkeley, to access information about different courses. It even enables them to import their own courses that are not listed in the app.
 
 ## Requirements
 
